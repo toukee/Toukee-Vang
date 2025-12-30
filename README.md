@@ -57,33 +57,39 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCP%2FIP-0A66C2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-DNS-1E90FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-DHCP-4169E1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firewalls-000000?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Defender-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-696969?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-EDR%20Fundamentals-8B0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Log%20Analysis-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Detection%20Engineering-800080?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SBTL1-0052CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GRC%20Mastery-2E8B57?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Data%20Analytics-34A853?style=for-the-badge&logo=Google&logoColor=white" />
+    
 </div>
 
 ## Projects
