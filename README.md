@@ -1,5 +1,5 @@
 # Hi, I'm Toukee Vang
-<a href="[https://linkedin.com](https://www.linkedin.com/in/toukeevang/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/toukeevang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 SOC Analyst Technical Troubleshooter Cybersecurity Learner
@@ -20,10 +20,14 @@ Education
 - Ongoing self‑study in cybersecurity, threat analysis, and SOC operations
 
 Certifications
-- CompTIA A+
+- CompTIA A+ <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">Detection Lab</a>
 - CompTIA Network+
 - CompTIA Security+
 - LPI
+- SBTL1
+- GRC Mastery
+- Google IT Support
+- Google Data Analytics
 
 Current Focus
 - Strengthening log analysis and investigation skills
@@ -35,7 +39,7 @@ Current Focus
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can apply my analytical mindset, structured documentation skills, and growing experience in threat detection and event log analysis to support security operations.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
