@@ -46,7 +46,7 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Credential-to-Controller: A Four-Hour Attack Chain</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -114,4 +114,5 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 
 ## Projects
 - <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>
-- <a href="https://google.com">Credential-to-Controller: A Four-Hour Attack Chain</a>
+- <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>
+- 
