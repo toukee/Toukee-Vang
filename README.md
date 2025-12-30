@@ -37,7 +37,6 @@ Current Focus
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can apply my analytical mindset, structured documentation skills, and growing experience in threat detection and event log analysis to support security operations.
 
