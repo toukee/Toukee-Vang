@@ -20,14 +20,14 @@ Education
 - Ongoing self‑study in cybersecurity, threat analysis, and SOC operations
 
 Certifications
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">CompTIA A+</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">CompTIA Network+</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">CompTIA Security+</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">LPI</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">SBTL1</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">GRC Mastery</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">Google IT Support</a>
-- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">Google Data Analytics</a>
+- <a href="https://www.credly.com/badges/d50b6a0e-944a-4409-8630-f4614bf52990/public_url">CompTIA A+</a>
+- <a href="https://www.credly.com/badges/18aaf495-25b2-4fd0-bd97-1ff3f4078929/public_url">CompTIA Network+</a>
+- <a href="https://www.credly.com/badges/2fa7aabd-e92c-4d1a-af3b-3f92667d0109/public_url">CompTIA Security+</a>
+- <a href="https://www.credly.com/badges/505524aa-85d2-4e06-8db4-03658477a399/public_url">LPI</a>
+- <a href="https://www.credly.com/badges/b18d3934-6395-4c63-b658-41168c53379d/public_url">SBTL1</a>
+- <a href="https://www.credly.com/badges/10cfb9b7-4035-4b67-9e9a-5763b9a856c7/public_url">GRC Mastery</a>
+- <a href="hhttps://www.credly.com/badges/10cfb9b7-4035-4b67-9e9a-5763b9a856c7/public_url">Google IT Support</a>
+- <a href="https://www.credly.com/badges/10cfb9b7-4035-4b67-9e9a-5763b9a856c7/public_url">Google Data Analytics</a>
 
 Current Focus
 - Strengthening log analysis and investigation skills
