@@ -43,11 +43,12 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         |  <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish!/a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -115,4 +116,5 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 ## Projects
 - <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>
 - <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>
+- <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish!/a>
 - 
