@@ -51,10 +51,10 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 | Security Automation with Shuffle SOAR         |  <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish! </a>|
 | Incident Response Planning and Execution      |<a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>|
 | Case Management with TheHive                  | <a href="https://github.com/toukee/Failed-Login-Attempts/blob/main/README.md">Failed Login Attempts </a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/toukee/Investigation-Failed-logins/blob/main/README.md">Investigation Failed logins</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -119,4 +119,5 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 - <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish!</a>
 - <a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>
 - <a href="https://github.com/toukee/Failed-Login-Attempts/blob/main/README.md">Failed Login Attempts </a>
-- 
+- <a href="https://github.com/toukee/Investigation-Failed-logins/blob/main/README.md">Investigation Failed logins</a>
+
