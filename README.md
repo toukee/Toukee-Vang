@@ -16,7 +16,7 @@ What I’m Working On
 - Continuous learning through labs, research, and community resources
 
 Education
-- Bachelor’s Degree in [Your Field]
+- Bachelor of Applied Management and Leadership
 - Ongoing self‑study in cybersecurity, threat analysis, and SOC operations
 
 Certifications
