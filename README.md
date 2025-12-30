@@ -1,9 +1,36 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Toukee Vang
+<a href="[https://linkedin.com](https://www.linkedin.com/in/toukeevang/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+SOC Analyst Technical Troubleshooter Cybersecurity Learner
+
+I’m building my career in cybersecurity with a foundation in technical troubleshooting, safety‑driven operations, and clear, structured communication. My background in mechanical and technical environments taught me how to diagnose issues methodically, document findings, and work with precision — strengths I now apply to security investigations and SOC workflows.
+
+On my GitHub, I share the projects, labs, and investigations I’m using to grow into an L1 SOC role. Everything here reflects real progress and hands‑on learning.
+
+What I’m Working On
+- SOC‑style investigations and incident write‑ups
+- Windows Defender, Sysmon, and event log analysis
+- Splunk fundamentals and detection logic practice
+- Documentation templates for cybersecurity reporting
+- Continuous learning through labs, research, and community resources
+
+Education
+- Bachelor’s Degree in [Your Field]
+- Ongoing self‑study in cybersecurity, threat analysis, and SOC operations
+
+Certifications
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- LPI
+
+Current Focus
+- Strengthening log analysis and investigation skills
+- Building a consistent SOC workflow
+- Improving documentation and communication for incident reporting
+- Preparing for entry‑level SOC and cybersecurity roles
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
