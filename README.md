@@ -20,14 +20,14 @@ Education
 - Ongoing self‑study in cybersecurity, threat analysis, and SOC operations
 
 Certifications
-- CompTIA A+ <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">Detection Lab</a>
-- CompTIA Network+
-- CompTIA Security+
-- LPI
-- SBTL1
-- GRC Mastery
-- Google IT Support
-- Google Data Analytics
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">CompTIA A+</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">CompTIA Network+</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">CompTIA Security+</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">LPI</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">SBTL1</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">GRC Mastery</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">Google IT Support</a>
+- <a href="https://www.credly.com/earner/earned/badge/d50b6a0e-944a-4409-8630-f4614bf52990">Google Data Analytics</a>
 
 Current Focus
 - Strengthening log analysis and investigation skills
