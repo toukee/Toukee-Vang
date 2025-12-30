@@ -41,7 +41,7 @@ Current Focus
 Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can apply my analytical mindset, structured documentation skills, and growing experience in threat detection and event log analysis to support security operations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 
 | Skill                                         | Associated Project         |
@@ -49,7 +49,7 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>|
 | Security Automation with Shuffle SOAR         |  <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish! </a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      |<a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -117,4 +117,5 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 - <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>
 - <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>
 - <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish!</a>
+- <a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>
 - 
