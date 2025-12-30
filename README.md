@@ -60,15 +60,19 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 <img src="https://img.shields.io/badge/-TCP%2FIP-0A66C2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-DNS-1E90FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-DHCP-4169E1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Firewalls-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%20Troubleshooting-0052CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firewall%20Basics-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-VPN%20Concepts-2F4F4F?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
 <img src="https://img.shields.io/badge/-Windows%20Defender-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sysmon-696969?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-EDR%20Fundamentals-8B0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Event%20Log%20Analysis-8B0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell%20Basics-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-EDR%20Fundamentals-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Malware%20Triage%20Basics-800000?style=for-the-badge&logoColor=white" />
 </div>
 
 ### SIEM
@@ -76,7 +80,23 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Log%20Analysis-4B0082?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Detection%20Engineering-800080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Detection%20Engineering%20Basics-800080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Alert%20Triage-2E8B57?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK%20Mapping-FF4500?style=for-the-badge&logoColor=white" />
+</div>
+
+### Tools
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-5A5A5A?style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysinternals-2F4F4F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-CyberChef-FF8C00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Any.Run-800000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Notepad%2B%2B-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black" />
 </div>
 
 ## Certifications
