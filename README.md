@@ -46,12 +46,12 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>|
-| Security Automation with Shuffle SOAR         |  <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish! </a>|
-| Incident Response Planning and Execution      |<a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>|
-| Case Management with TheHive                  | <a href="https://github.com/toukee/Failed-Login-Attempts/blob/main/README.md">Failed Login Attempts </a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/toukee/Investigation-Failed-logins/blob/main/README.md">Investigation Failed logins</a>|
+| SIEM setup, log onboarding, and basic dashboards | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
+|Attack chain and authentication log analysis | <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>|
+|Email phishing analysis and validation |  <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish! </a>|
+| Cloud SOC environment design and response workflow  |<a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>|
+| Failed login investigation and brute‑force detection | <a href="https://github.com/toukee/Failed-Login-Attempts/blob/main/README.md">Failed Login Attempts </a>|
+| Detection use case creation with KQL and alert rules | <a href="https://github.com/toukee/Investigation-Failed-logins/blob/main/README.md">Investigation Failed logins</a>|
 
 ## Tools
 
