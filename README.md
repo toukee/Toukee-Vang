@@ -46,7 +46,7 @@ Seeking an opportunity as a SOC Analyst or Cybersecurity Analyst where I can app
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM setup, log onboarding, and basic dashboards | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
+|Log Analysis & Incident Investigation | <a href="https://github.com/toukee/Help-IT-s-Complicated-Investigation/tree/main">Help, IT’s Complicated Investigation</a>|
 |Attack chain and authentication log analysis | <a href="https://github.com/toukee/Credential-to-Controller-A-Four-Hour-Attack-Chain/blob/main/README.md">Credential-to-Controller: A Four-Hour Attack Chain</a>|
 |Email phishing analysis and validation |  <a href="https://github.com/toukee/Duolingo-Phish-/blob/main/README.md">Duolingo Phish! </a>|
 | Cloud SOC environment design and response workflow  |<a href="https://github.com/toukee/Microsoft-Azure-Sentinel-XDR-Mini-Project-1/blob/main/README.md">Microsoft Azure/Sentinel/XDR Mini Project #1 </a>|
