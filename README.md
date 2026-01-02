@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/toukeevang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.notion.so/Toukee-Vang-Portfoilo-29c0c3b8580a803ea4c7e402115d24a2"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /> </a>
 
-SOC Analyst Technical Troubleshooter Cybersecurity Learner
+SOC Analyst Technical Troubleshooter Cybersecurity
 
 I’m building my career in cybersecurity with a foundation in technical troubleshooting, safety‑driven operations, and clear, structured communication. My background in mechanical and technical environments taught me how to diagnose issues methodically, document findings, and work with precision — strengths I now apply to security investigations and SOC workflows.
 
